@@ -9,3 +9,5 @@ I learned SQL and Tableau, with these, I have created a Dashboard. I can see the
 *Note: I have also put some notes for the people who are trying to understand it. So, everyone can understand it an learn from it.*
 
 But for the time being, This is my **COVID-19 Portfolio Project.**
+
+🧑🏻‍💻 Happy Coding 🧑🏻‍💻
