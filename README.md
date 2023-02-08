@@ -10,7 +10,4 @@ I learned SQL and Tableau, with these, I have created a Dashboard. I can see the
 
 But for the time being, This is my **COVID-19 Portfolio Project.**
 
-!(file:///Users/abhi/Desktop/SCR-20230208-ehp.png)
-
-
 🧑🏻‍💻 Happy Coding 🧑🏻‍💻
