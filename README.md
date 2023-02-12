@@ -8,6 +8,15 @@ I learned SQL and Tableau, with these, I have created a Dashboard. I can see the
 
 *Note: I have also put some notes for the people who are trying to understand it. So, everyone can understand it and learn from it.*
 
-But for the time being, This is my **COVID-19 Portfolio Project.**
+I have successfully collected and processed millions of rows of data through the use of Excel and MySQL technologies. This involved extensive data cleaning, which I accomplished through the implementation of various SQL techniques, including:
+
+* Joining tables
+* Using common table expressions (CTEs)
+* Creating temporary tables
+* Utilizing window functions and aggregate functions
+* Generating views
+* Converting data types
+
+My proficiency in SQL allowed me to effectively craft queries for data cleaning and analysis. The resulting data was then imported into Tableau, where I created interactive dashboards to effectively communicate insights through visualization.
 
 🧑🏻‍💻 Happy Coding 🧑🏻‍💻
